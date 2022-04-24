@@ -1,0 +1,20 @@
+{
+    "status": {
+    "code": 0,
+    "description": "OK"
+    },
+    "servicePackage": {
+    "service": "Yakin Esok Sampai(YES)",
+    "value": 48000
+    },
+    "city": {
+    "origin": "SURABAYA",
+    "destination":"JAKARTA"
+    },
+    "weight":2,
+    "quantity":1,
+    "priceItem": 80000,
+    "productName": "Celana Jeans"
+    }
+    
+    
